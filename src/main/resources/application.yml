@@ -1,0 +1,12 @@
+user:
+  usn: zhangsan
+  age: 18
+  boss: false
+  birthday: 2000/10/20
+  maps: {chinese: 70, enlish: 80}
+  lists:
+    - list
+    - wangwu
+  cat:
+    name: 小小
+    age: 12
